@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* Palette 5: Forest and Sand (Best for sustainability, wellness, boutique brands) */
+    --text: #1E2B24;
+    --secondary: #3E5C4A;
+    --soft: #A3B8A0;
+    --bg: #EDE9DF;
+    --accent: #C08A3E;
+
+    /* Semantic mappings for hotel application */
+    --color-primary-dark: #1E2B24;
+    --color-secondary-forest: #3E5C4A;
+    --color-soft-accent: #A3B8A0;
+    --color-sand: #EDE9DF;
+    --color-sand-light: #F7F5EE;
+    --color-accent-amber: #C08A3E;
+    --color-amber-hover: #a67431;
+    --color-bg-offwhite: #FAF9F5;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+    font-family: 'Lato', system-ui, -apple-system, sans-serif;
+    color: #1E2B24;
+    background-color: #FAF9F5;
+  }
+
+  h1, h2, h3, h4, .font-serif-luxury {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: #1E2B24;
+  }
+
+  .font-script {
+    font-family: 'Alex Brush', 'Playfair Display', cursive, serif;
+  }
+}
+
+/* Custom scrollbars and utility styles matching Forest and Sand */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #EDE9DF;
+}
+::-webkit-scrollbar-thumb {
+  background: #C08A3E;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a67431;
+}
+
+@keyframes gentleBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-7px);
+  }
+  50% {
+    transform: translateY(0);
+  }
+  70% {
+    transform: translateY(-3px);
+  }
+}
+
+.animate-gentle-bounce {
+  animation: gentleBounce 1.5s ease-in-out;
+}

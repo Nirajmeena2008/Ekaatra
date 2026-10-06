@@ -1,0 +1,6 @@
+{
+  "name": "Ekaatra - Luxury Hotel & Booking Platform | Kukas, Jaipur",
+  "description": "Official luxury booking platform for Ekaatra in Kukas, Jaipur. Seven-star hospitality, seamless direct reservations, CRS inventory, and modern tranquil amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,217 @@
+{
+  "rooms": [
+    {
+      "id": "room-deluxe",
+      "name": "Heritage Deluxe Suite",
+      "category": "deluxe",
+      "pricePerNight": 3800,
+      "maxAdults": 2,
+      "maxChildren": 1,
+      "sizeSqFt": 340,
+      "bedType": "Plush King Size Bed",
+      "totalInventory": 12,
+      "featureTags": [
+        "Spacious",
+        "Modern Lighting",
+        "Aravalli View",
+        "Rain Shower"
+      ],
+      "description": "Refined comfort designed with contemporary desert warmth. Features custom architectural false ceiling with warm recessed cove lighting, acoustic soundproofing, plush king bed, 55-inch 4K smart TV, and an expansive walk-in rain shower bathroom.",
+      "images": [
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_JqZdpzoeCKvXrGS7u0nYwXaOgjcnd30-Cg94Kj2lb5Fkxe9qRBpwDFSc6UGFUJAmJFkYmN-oVYp7A14gCpeEzrIkRnjlayvSeV_Ti2toaB0BX35QtJDFlchucdiMnSur4RXE5-Jaf08=w1200-h800-k-no",
+        "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "amenities": [
+        "Plush 12-inch Ortho-Pocket King Mattress",
+        "55-inch 4K Ultra HD Smart TV with OTT",
+        "Modern Cove & Dimmable Night Lighting",
+        "Walk-in Rain Shower with Italian Marble",
+        "High-Speed Wi-Fi (300+ Mbps)",
+        "Daily Housekeeping & Mineral Water Bottles",
+        "In-room Electronic Safe & Mini Bar",
+        "Work Desk with Universal Power Ports"
+      ],
+      "active": true
+    },
+    {
+      "id": "room-executive",
+      "name": "Executive King Oasis",
+      "category": "executive",
+      "pricePerNight": 4950,
+      "maxAdults": 3,
+      "maxChildren": 2,
+      "sizeSqFt": 460,
+      "bedType": "California King Bed + Sofa Lounge",
+      "totalInventory": 8,
+      "featureTags": [
+        "Spacious",
+        "Modern Lighting",
+        "Premium Amenities",
+        "Lounge Seating"
+      ],
+      "description": "Tailored for the discerning traveler seeking seven-star tranquility amidst Kukas. Offers an expansive living area with velvet seating, geometric ceiling lights, bespoke teak wood furniture, and an invigorating spa-inspired bathroom.",
+      "images": [
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "amenities": [
+        "California King Bed with 400TC Egyptian Linens",
+        "Dedicated Cozy Velvet Living / Lounge Area",
+        "Designer False Ceiling with Mood Dimmer",
+        "Lavish Bathroom with Dual Vanity & Rain Head",
+        "Complimentary Lavazza Espresso Pod Machine",
+        "Acoustic Glass Windows for Total Silence",
+        "Fast Room Service 24/7",
+        "Complimentary Iron & Garment Steamer"
+      ],
+      "active": true
+    },
+    {
+      "id": "room-presidential",
+      "name": "Aravalli Royal Presidential Suite",
+      "category": "presidential",
+      "pricePerNight": 8500,
+      "maxAdults": 4,
+      "maxChildren": 2,
+      "sizeSqFt": 720,
+      "bedType": "Emperor King Bed + Separate Dining & Living",
+      "totalInventory": 4,
+      "featureTags": [
+        "Spacious",
+        "Modern Lighting",
+        "Premium Amenities",
+        "Private Balcony",
+        "Butler On-Demand"
+      ],
+      "description": "The pinnacle of serenity and royal grandeur at Ekaatra. Featuring an expansive master bedroom with handpicked Rajasthani accents, separate private dining hall, panoramic Aravalli valley views, a freestanding deep soaking tub, and priority express check-in.",
+      "images": [
+        "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "amenities": [
+        "Private Panoramic Sun Balcony",
+        "Master Emperor Bed with Feather Duvets",
+        "Freestanding Italian Marble Soaking Tub",
+        "Separate Living Room & 6-Seater Dining Space",
+        "65-inch Curved OLED Home Theater Setup",
+        "VIP Dedicated Butler Concierge",
+        "Complimentary Premium Airport Pick & Drop",
+        "Artisanal Fruit Basket & Welcome Sweets"
+      ],
+      "active": true
+    },
+    {
+      "id": "room-superior",
+      "name": "Superior Garden Courtyard Room",
+      "category": "superior",
+      "pricePerNight": 3200,
+      "maxAdults": 2,
+      "maxChildren": 1,
+      "sizeSqFt": 300,
+      "bedType": "Queen Comfort Bed / Twin",
+      "totalInventory": 10,
+      "featureTags": [
+        "Modern Lighting",
+        "Courtyard Access",
+        "Quiet Sanctuary"
+      ],
+      "description": "Intimate and soothing retreat with direct ground-floor access to Ekaatra's manicured garden pathway. Ideal for business professionals visiting the RIICO Industrial hub and couples looking for quiet rejuvenation.",
+      "images": [
+        "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "amenities": [
+        "Direct Step-Out Access to Tranquil Garden",
+        "Cozy Ergonomic Workspace with USB-C Hub",
+        "Custom Cove Ambient Ceiling Lights",
+        "Fast 3-Minute Express Check-in",
+        "Smart High-Pressure Shower & Organic Toiletries",
+        "Sound-Insulated Walls for Deep Sleep",
+        "Tea & Coffee Maker with Herbal Blends"
+      ],
+      "active": true
+    }
+  ],
+  "bookings": [],
+  "promos": [
+    {
+      "id": "promo-1",
+      "code": "WELCOME10",
+      "discountType": "percentage",
+      "value": 10,
+      "minSpend": 2500,
+      "maxDiscount": 1500,
+      "validUntil": "2026-12-31",
+      "active": true,
+      "usageCount": 0
+    },
+    {
+      "id": "promo-2",
+      "code": "KUKASROYAL",
+      "discountType": "fixed",
+      "value": 1000,
+      "minSpend": 6000,
+      "validUntil": "2026-12-31",
+      "active": true,
+      "usageCount": 0
+    }
+  ],
+  "dynamicRates": {
+    "weekendMultiplier": 1.15,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "festivalSeasonActive": false,
+    "festivalMultiplier": 1.25,
+    "festivalName": "Pushkar & Diwali Royal Season",
+    "blackoutDates": [
+      "2026-11-12",
+      "2026-11-13",
+      "2026-12-31"
+    ]
+  },
+  "gallery": [
+    {
+      "id": "gal-1",
+      "category": "exterior",
+      "title": "Ekaatra Twilight Facade",
+      "caption": "The illuminated architectural entrance welcoming travelers to Kukas, Jaipur.",
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q_JqZdpzoeCKvXrGS7u0nYwXaOgjcnd30-Cg94Kj2lb5Fkxe9qRBpwDFSc6UGFUJAmJFkYmN-oVYp7A14gCpeEzrIkRnjlayvSeV_Ti2toaB0BX35QtJDFlchucdiMnSur4RXE5-Jaf08=w1200-h800-k-no",
+      "isGoogleMapsAsset": true
+    },
+    {
+      "id": "gal-2",
+      "category": "rooms",
+      "title": "Architectural Ceiling & Ambient Suite",
+      "caption": "Showcasing modern false ceiling cove lighting and pristine Egyptian linens.",
+      "imageUrl": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "gal-3",
+      "category": "exterior",
+      "title": "Tranquil Stone Courtyard",
+      "caption": "A peaceful oasis insulated from the surrounding industrial corridor.",
+      "imageUrl": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "gal-4",
+      "category": "bathrooms",
+      "title": "Ensuite Italian Rain Shower",
+      "caption": "Modern glass walk-in shower with designer LED mirrors and organic toiletries.",
+      "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "gal-5",
+      "category": "rooms",
+      "title": "Executive King Living Area",
+      "caption": "Velvet sofa lounger with warm sand textures and acoustic double glazing.",
+      "imageUrl": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "reviews": []
+}
